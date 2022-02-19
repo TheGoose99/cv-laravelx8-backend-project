@@ -13,10 +13,6 @@
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.4"
     },
-    "post-install-cmd": [
-        "php artisan clear-compiled",
-        "chmod -R 777 public/"
-    ],
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
