@@ -5,7 +5,10 @@
  
 ## How to make the project work
 
- In order to make the project work you need to create a mysql database named laravel_7x (or you can rename it to your new database name in the ENV file) then inside the project open a CMD terminal and enter the following command: php artisan migrate 
+ In order to make the project work you need to create a mysql database named laravel_project_7x (or you can rename it to your new database name in the ENV file, if there is no ENV file, create one) then inside the project open a CMD terminal and enter the following command: 
+ 
+ php artisan migrate
+ 
  After the migrations succeded you are able to register, login and use the web application.
  
 ## About Laravel
