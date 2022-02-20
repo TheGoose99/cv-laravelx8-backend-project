@@ -1,6 +1,6 @@
 
 
-  This is a practice project using the Laravel web application framework and written in JavaScript, PhP and Blade programming languages.  The project application contains an admin panel and complete CRUD for users, posts, replies, roles and permissions. Other implementations: authentication security, permissions based on roles, pagination, image upload and search.
+  This is a practice project using the Laravel web application framework and written in JavaScript, PhP and Blade programming languages.  The project application contains an admin panel and complete CRUD for users, posts, replies, roles and permissions. Other implementations: authentication security, permissions based on roles, policies, symbolic link, pagination, image upload and search.
  The inspiration of this project comes from the Udemy Web Development course "PHP with Laravel for beginners - Become a Master in Laravel" by Edwin Diaz.
  
 ## How to make the project work
