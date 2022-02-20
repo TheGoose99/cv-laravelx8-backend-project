@@ -3,6 +3,11 @@
   This is a practice project using the Laravel web application framework and written in JavaScript, PhP and Blade programming languages.  The project application contains an admin panel and complete CRUD for users, posts, replies, roles and permissions. Other implementations: authentication security, permissions based on roles, pagination, image upload and search.
  The inspiration of this project comes from the Udemy Web Development course "PHP with Laravel for beginners - Become a Master in Laravel" by Edwin Diaz.
  
+## How to make the project work
+
+ In order to make the project work you need to create a mysql database named project_laravel_7x (or you can rename it to your new database name in the ENV file) then inside the project open a CMD terminal and enter the following command: php artisan migrate 
+ After the migrations succeded you are able to register, login and use the web application.
+ 
 ## About Laravel
 
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
