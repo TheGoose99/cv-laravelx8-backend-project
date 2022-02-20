@@ -9,7 +9,9 @@
  
  php artisan migrate
  
- After the migrations succeded you are able to register, login and use the web application.
+ After the migrations succeded you are able to register, login and use the web application. In order to make it 'prettier', as intended, also run: 
+ 
+ npm install && npm run dev
  
 ## About Laravel
 
